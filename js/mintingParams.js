@@ -8,7 +8,7 @@ const urlApiServer = "https://api.ninjas.cash";
 
 // Contract Params mint
 const tokenId = "77a95410a07c2392c340384aef323aea902ebfa698a35815c4ef100062c6d8ac";
-const collectionSize = 5_000;
+const collectionSize = 10;
 const numberOfThreads = 25;
 const mintPriceSats = 5_000_000;
 const payoutAddress = "bitcoincash:qqds0h006djrnast7ktvf7y3lrmvu0d7yqzhuzgvaa"; // with bitcoincash: or bchtest: prefix
